@@ -2,4 +2,4 @@
 Scripting-first video editor primarily written in the Rust Programming Language.
 
 
-Coming soon
+Coming soon. Created on December 29, 2025.
