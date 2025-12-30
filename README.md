@@ -19,8 +19,7 @@ cd vcpkg
 
 After all of the commands are complete, go to the search bar, type "Environment" and  "Edit the system environment variables" should appear, launch it.
 Click "Environment Variables..." and click one of the two buttons saying "New"
-Set the variable name to whatever, though something like "vcpkg" would be recommended.
-Set the variable value to your vcpkg's folder's location, you can check by looking at the left of your terminal.
+Set the variable name to "VCPKG_ROOT" and set the variable value to your vcpkg's folder's location, you can check by looking at the left of your terminal.
 If the only time you used the cd command was the second command, then the path would be something like:
 
 C:\Users\YOURUSERNAME\vcpkg
